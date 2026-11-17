@@ -1,0 +1,4 @@
+package com.civictrack.model;
+public enum ComplaintStatus {
+    SUBMITTED, UNDER_REVIEW, ASSIGNED, IN_PROGRESS, RESOLUTION_SUBMITTED, RESOLVED, REJECTED, REOPENED
+}
